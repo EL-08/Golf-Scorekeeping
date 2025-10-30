@@ -18,8 +18,6 @@ A lightweight, offline-friendly golf scorekeeper for **1–4 players** and **9 o
    - For best mobile experience, add to home screen / standalone mode if your browser supports it.
 3. Start a new round from the setup screen.
 
-> No build step or server is required for the MVP.
-
 ## Known issues & future work
 - Some browsers restrict the Wake Lock API unless there is a user gesture or under battery/OS policies.
 - No par/handicap support in the MVP—only strokes and totals.
